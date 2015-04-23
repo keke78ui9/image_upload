@@ -1,7 +1,7 @@
 # image upload
 pure javascript image upload
 
-# how to setup
+##how to setup
 
->npm install
->set DEBUG=image-upload & npm start 
+$npm install
+$set DEBUG=image-upload & npm start 
